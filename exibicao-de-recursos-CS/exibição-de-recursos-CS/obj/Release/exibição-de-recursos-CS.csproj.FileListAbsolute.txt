@@ -1,0 +1,25 @@
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.exe.config
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.exe
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.pdb
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.AssemblyReference.cache
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição_de_recursos_CS.Properties.Resources.resources
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.GenerateResource.cache
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.CoreCompileInputs.cache
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.exe
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.pdb
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\OpenHardwareMonitorLib.dll
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.CopyComplete
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\System.CodeDom.dll
+D:\Dokumente\Visual Studio 2022\exibição-de-recursos-CS\exibição-de-recursos-CS\bin\Release\System.CodeDom.xml
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.exe.config
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.exe
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\bin\Release\exibição-de-recursos-CS.pdb
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\bin\Release\System.CodeDom.dll
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\bin\Release\System.CodeDom.xml
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição_de_recursos_CS.Properties.Resources.resources
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição.35285D56.Up2Date
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.exe
+C:\Users\lucas\Downloads\exibicao-de-recursos-CS\exibição-de-recursos-CS\obj\Release\exibição-de-recursos-CS.pdb
